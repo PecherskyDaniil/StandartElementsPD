@@ -1,0 +1,151 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-85056d3c304c98891f41.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SImpleElementsPD",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Felgo_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Felgo_other_files-Debug-c3d2ac36e7130f218dc2.json",
+					"name" : "Felgo_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Felgo_resources_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Felgo_resources_1-Debug-fe11895bcd6afe56da0f.json",
+					"name" : "Felgo_resources_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Felgo_resources_1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Felgo_resources_1_autogen-Debug-fe48f1ba24177ff3cd4b.json",
+					"name" : "Felgo_resources_1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Felgo_resources_1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Felgo_resources_1_autogen_timestamp_deps-Debug-8180fbfb468972fbbbc1.json",
+					"name" : "Felgo_resources_1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-ce13a7a770c09515bd0b.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSImpleElementsPD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSImpleElementsPD-Debug-9204d3402afc7a9ba6c4.json",
+					"name" : "appSImpleElementsPD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSImpleElementsPD_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSImpleElementsPD_autogen-Debug-4d50e37dd068a8489676.json",
+					"name" : "appSImpleElementsPD_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSImpleElementsPD_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSImpleElementsPD_autogen_timestamp_deps-Debug-928e78de6fc1136e8c20.json",
+					"name" : "appSImpleElementsPD_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSImpleElementsPD_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSImpleElementsPD_other_files-Debug-e6e546ea1b1466b2dea3.json",
+					"name" : "appSImpleElementsPD_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSImpleElementsPD_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSImpleElementsPD_qmlimportscan-Debug-f498320877df5f183369.json",
+					"name" : "appSImpleElementsPD_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSImpleElementsPD_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSImpleElementsPD_qmltyperegistration-Debug-857f20cefd0b46d1eb9b.json",
+					"name" : "appSImpleElementsPD_qmltyperegistration",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/SImpleElementsPD/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+		"source" : "D:/SImpleElementsPD"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

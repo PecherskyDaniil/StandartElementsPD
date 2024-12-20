@@ -1,0 +1,4 @@
+module SImpleElementsPD
+typeinfo appSImpleElementsPD.qmltypes
+prefer :/
+

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/SImpleElementsPD">
+    <file alias="qmldir">D:/SImpleElementsPD/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/SImpleElementsPD/qmldir</file>
+  </qresource>
+</RCC>
+
